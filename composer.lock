@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e16631c63550ec757ebdec666fa7b2fd",
+    "content-hash": "fbbefa5e79606799ff4365678b9dda0e",
     "packages": [
         {
             "name": "thingengineer/mysqli-database-class",

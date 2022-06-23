@@ -1,5 +1,17 @@
 {
+    "name": "marleychang/mysql-schema-compare",
+    "type": "project",
     "require": {
         "thingengineer/mysqli-database-class": "^2.9"
-    }
+    },
+    "autoload": {
+        "psr-4": {
+            "Marleychang\\MysqlSchemaCompare\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marley"
+        }
+    ]
 }
