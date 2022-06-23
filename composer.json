@@ -1,7 +1,9 @@
 {
     "name": "marleychang/mysql-schema-compare",
-    "type": "project",
+    "description": "compare 2 diffrent db connection table schema",
+    "type": "library",
     "require": {
+        "php": "~7.0",
         "thingengineer/mysqli-database-class": "^2.9"
     },
     "autoload": {
@@ -9,9 +11,11 @@
             "Marleychang\\MysqlSchemaCompare\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
-            "name": "Marley"
+            "name": "Marley Chang"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
